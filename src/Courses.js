@@ -219,7 +219,7 @@ const Courses = () => {
                         <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
                         <div className="flex justify-center">
                             <div className="text-left mr-12">
-                                <p className="mb-2"><i className="fas fa-envelope"></i> Email: info@eduverse.com</p>
+                                <p className="mb-2"><i className="fas fa-envelope"></i> Email: vishnu2522004@gmail.com</p>
                                 <p className="mb-2"><i className="fas fa-phone"></i> Phone: +1 (123) 456-7890</p>
                                 <p><i className="fas fa-map-marker-alt"></i> Address: 123 Education Street, Cityville, State, Zip Code</p>
                             </div>
